@@ -435,3 +435,7 @@ form > button {
     right: -320px;
   }
 }
+
+body{
+  background:url(./workout.png) no-repeat;
+}
